@@ -4,6 +4,9 @@
 ## What required : 
 - using all hooks studied 
 - using this api to get images [api](https://picsum.photos/)
+- Game should have a win mechanism 
+- Game should have a limit turns
+- Game should have a Play again Feature:
 ## example :
 ![alt text](./cardMatch.gif)
 ## Grid should be 4*4:
