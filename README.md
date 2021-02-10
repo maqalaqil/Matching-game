@@ -5,6 +5,7 @@
 - using all hooks studied 
 - using this api to get images [api](https://picsum.photos/)
 ## example :
+![alt text](./cardMatch.gif)
 
 ## Design Rules
 - Be as Creative as you can having a good UI/UX is import 
