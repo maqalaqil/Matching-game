@@ -2,11 +2,10 @@
 ## What does that mean?
 ### Concentration, also known as Matching Pairs, Match Match, Match Up, Memory, Pelmanism, Shinkei-suijaku, Pexeso or simply Pairs, is a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.
 ## What required : 
-- using all hooks studied 
 - using this api to get images [api](https://picsum.photos/)
 - Game should have a win mechanism 
-- Game should have a limit turns
-- Game should have a Play again Feature:
+- Game should have a limit turns (saved in redux store)
+- Game should have a Play again Feature: 
 ## example :
 ![alt text](./cardMatch.gif)
 ## Grid should be 4*4:
